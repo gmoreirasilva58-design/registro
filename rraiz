@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Primeiro commit - app de notas com IA"
+git branch -M main
+git remote add origin https://github.com/seu-usuario/notas-ia.git
+git push -u origin main
